@@ -69,6 +69,8 @@ Use the proper **XML declaration** and **DOCTYPE**:
 * Self-closing tags work like `<img />`.
 * Embed should also work like this as well, but is not in the polyfill currently and therefore does not
 * Saves space in code when only one source exists
+* In the future, this functionality could be applied to **all elements** allowing **any** element to be a self-closing tag, even ones like `<p>` which are normally not.
+* Also this would allow things like `alt=` to be used if the audio/video/etc could not be rendered, allowing the element and error text to be on a single line.
 * **`<onerror>` is not supported** on self-closing tags; use container tags for fallback.
 
 ### Container tags with `<onerror>`
