@@ -152,7 +152,7 @@ var thisfunction = function () {
 
 ## 6. Polyfill
 
-Include the polyfill in your page:
+XHTML5 is not implemented yet, so for testing, include the polyfill in your page:
 
 ```html
 <script type="text/javascript" src="https://vlc29.neocities.org/xhtml5.js"></script>
