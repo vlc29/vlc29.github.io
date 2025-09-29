@@ -62,8 +62,8 @@ Use the proper **XML declaration** and **DOCTYPE**:
 ### Self-closing tags
 
 ```xml
-<audio controls="controls" src="https://www.nyan.cat/music/dub.mp3" />
-<video controls="controls" src="https://www.example.com/video.mp4" />
+<audio controls="controls" alt="Audio was not found" src="https://www.nyan.cat/music/dub.mp3" />
+<video controls="controls" alt="Video was not found" src="https://www.example.com/video.mp4" />
 ```
 
 * Self-closing tags work like `<img />`.
