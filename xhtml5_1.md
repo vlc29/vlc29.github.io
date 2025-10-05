@@ -22,6 +22,22 @@ Use the proper **XML declaration** and **DOCTYPE**:
 </body>
 </html>
 ```
+Alternately, this is another proposed doctype:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xhtml5>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <title>My XHTML5 Page</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+</head>
+<body>
+    <!-- Your content here -->
+</body>
+</html>
+```
 
 * All elements must be **properly closed** (`<br />`, `<img />`, `<audio />`, etc.).
 * Attributes must be **quoted**.
