@@ -143,7 +143,13 @@ XHTML5 resurrects `<object>` and allows `<embed>`:
 
 ---
 
-## 5. JavaScript Helpers
+## 5. JavaScript
+### `<script>` self closing tags
+```
+<script src="https://www.example.com/example.js" type="text/javascript" />
+```
+
+* Faster declaration of JavaScript 
 
 ### `elt()` — Element Builder
 
