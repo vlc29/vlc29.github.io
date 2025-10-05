@@ -193,6 +193,7 @@ XHTML5 is not implemented yet, so for testing, include the polyfill in your page
 * Embed and object elements are fully XML-compliant
 * CSS supports **glass, XR, round, handheld**
 * Polyfill ensures compatibility on unsupported engines
+* Marquee is standard (supported in all major browsers)
 * Focus is on **readability and machine-friendliness**
 
 ---
