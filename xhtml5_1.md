@@ -1,6 +1,6 @@
-# XHTML5 Implementation Guide
+# VLC 2.9 XHTML5 Implementation Guide
 
-XHTML5 is an extended HTML5 standard using **XML syntax** while keeping all HTML5 functionality. Its purpose is to **maximize readability and flexibility for humans and machines and improve code quality**. This is not the final standard or polyfill and is under **active development**.
+VLC 2.9 Foundation XHTML5 (aka XHTML5 or VLCXHTML5) is an extended HTML5 standard using **XML syntax** while keeping all HTML5 functionality. Its purpose is to **maximize readability and flexibility for humans and machines and improve code quality**. This is not the final standard or polyfill and is under **active development**.
 
 ---
 
